@@ -1,0 +1,8 @@
+body{
+    background-color: rgba(56, 56, 192, 0.644);
+    color:white;
+    font-family: "New Amsterdam", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
