@@ -14,3 +14,9 @@ button{
     color: white;
     font-family: "New Amsterdam", sans-serif;
 }
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
